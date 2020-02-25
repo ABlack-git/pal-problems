@@ -1,0 +1,25 @@
+24 2 4
+0 ab bc cd de
+1 ab bc de cd
+2 ab cd bc de
+3 ab cd de bc
+4 ab de bc cd
+5 ab de cd bc
+6 bc ab cd de
+7 bc ab de cd
+8 bc cd ab de
+9 bc cd de ab
+10 bc de ab cd
+11 bc de cd ab
+12 cd ab bc de
+13 cd ab de bc
+14 cd bc ab de
+15 cd bc de ab
+16 cd de ab bc
+17 cd de bc ab
+18 de ab bc cd
+19 de ab cd bc
+20 de bc ab cd
+21 de bc cd ab
+22 de cd ab bc
+23 de cd bc ab
